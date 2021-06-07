@@ -1,0 +1,11 @@
+,Class,Age,Menopause,Tumor-size,Inv-nodes,Node-caps,Deg-malig,Breast,Breast-quad,Irradiat,Predicted,No Treament,Treament
+0,no-recurrence-events,30-39,premeno,25-29,6-8,yes,2,right,left_up,,1,0.4803683946265953,0.5196316053734047
+1,no-recurrence-events,50-59,premeno,25-29,,yes,2,left,left_up,,0,0.609758919304475,0.390241080695525
+2,no-recurrence-events,40-49,premeno,35-39,9-11,yes,2,right,left_up,,1,0.43315925888302487,0.5668407411169751
+3,no-recurrence-events,40-49,premeno,35-39,9-11,yes,2,right,right_up,,1,0.47333798104265556,0.5266620189573444
+4,no-recurrence-events,40-49,premeno,40-44,3-5,yes,3,right,left_up,,0,0.5172871847881291,0.482712815211871
+5,no-recurrence-events,40-49,premeno,30-34,6-8,no,2,left,left_up,,1,0.45220384900278965,0.5477961509972104
+6,no-recurrence-events,50-59,ge40,40-44,0-2,no,3,left,right_up,,0,0.5843129181975706,0.41568708180242947
+7,no-recurrence-events,60-69,ge40,30-34,,no,2,left,left_low,,0,0.63034684975368,0.36965315024631995
+8,no-recurrence-events,30-39,premeno,20-24,3-5,no,2,right,central,,0,0.5407715397441627,0.4592284602558373
+9,no-recurrence-events,30-39,premeno,40-44,3-5,no,3,right,right_up,,0,0.5570602134984461,0.44293978650155386
