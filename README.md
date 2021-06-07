@@ -1,0 +1,2 @@
+# Classifiying-Predicted-Breast-Cancer-
+Problem Statement:  Hospital X based on the previous data they have,is trying to identify which of its patients would require a Therapy.  1) We would like to understand your experience of analysing data  2) Bring in insights out of the data  3) Build probabilistic classifier model to solve the problem. We would like to see the probabilistic scores for each of the prediction you have made on the prediction dataset.
